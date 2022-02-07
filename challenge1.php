@@ -7,6 +7,7 @@
 
  $price = 5.99;
 
+
  echo "$booktitle<br>";
 
  if ($read == true) {
@@ -20,4 +21,6 @@
  echo "$released<br>";
 
  echo "$price<br>";
+
+
 
