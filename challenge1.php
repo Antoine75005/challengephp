@@ -22,5 +22,7 @@
 
  echo "$price<br>";
 
+ ?>
+ 
 
 
